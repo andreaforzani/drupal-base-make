@@ -12,6 +12,9 @@ projects[admin_views][version] = "1.5"
 projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][version] = "3.1"
 
+projects[bigmenu][subdir] = "contrib"
+projects[bigmenu][version] = "1.3"
+
 projects[coder][subdir] = "devel"
 projects[coder][version] = "2.5"
 
@@ -35,6 +38,9 @@ projects[eu_cookie_compliance][version] = "1.14"
 
 projects[features][subdir] = "contrib"
 projects[features][version] = "2.6"
+
+projects[imce][subdir] = "contrib"
+projects[imce][version] = "1.9"
 
 projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "3.0-alpha2"
@@ -70,7 +76,7 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.3"
 
 ; Themes
-projects[ember][version] = "2.0-alpha3"
+projects[adminimal_theme][version] = "1.23"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,

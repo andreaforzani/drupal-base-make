@@ -57,6 +57,9 @@ projects[module_filter][version] = "2.0"
 projects[navbar][subdir] = "contrib"
 projects[navbar][version] = "1.6"
 
+projects[navbar_flush_cache][subdir] = "contrib"
+projects[navbar_flush_cache][version] = "1.x-dev"
+
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
